@@ -1,3 +1,5 @@
+[![Ruby](https://github.com/CloneableX/rtw-active-record/actions/workflows/ci.yml/badge.svg)](https://github.com/CloneableX/rtw-active-record/actions/workflows/ci.yml)
+
 # Rtw::Activerecord
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rtw/activerecord`. To experiment with that code, run `bin/console` for an interactive prompt.
